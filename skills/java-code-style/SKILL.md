@@ -1,6 +1,6 @@
 ---
 name: java-code-style
-description: Use when writing, editing, or reviewing Java code. Enforces concise Java style: use var when the type is implicit, keep explicit types when they improve clarity, prefer final, respect SOLID, simple methods, and relevant non-generic names.
+description: "Use when writing, editing, or reviewing Java code. Enforces concise Java style: use var when the type is implicit, keep explicit types when they improve clarity, prefer final, respect SOLID, simple methods, and relevant non-generic names."
 ---
 
 # Java Code Style
