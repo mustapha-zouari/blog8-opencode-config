@@ -22,7 +22,7 @@ The repository holds the real configuration. `setup.sh` links it into `~/.config
 
 - OpenCode 2.
 - Node.js with `npx` for the Playwright MCP server.
-- A GitHub personal access token for the GitHub MCP server, unless your client uses OAuth for that server.
+- A GitHub personal access token for the GitHub MCP server. The example sets `oauth: false`; remove it and the `Authorization` header to use OAuth instead.
 
 ## Setup
 
